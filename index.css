@@ -1,0 +1,19 @@
+html {   
+    width: 100%;
+    height: 100%;
+}
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+#mapid {
+    width: 100%;
+    height: 100%;
+}
+
+/*Нужно, чтоб иконка была по центру круга*/
+.satellite-icon {
+    margin-top: -16px !important;
+    margin-left: -16px !important;
+}
